@@ -1,2 +1,2 @@
 # portifolio-website2
-this is my portifolio website where is talk about my self and all my acomplishments 
+this is my portifolio website where  I talk about my self and all my acomplishments.
